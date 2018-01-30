@@ -2,5 +2,5 @@
 // Take this compoenent and put it on the page
 
 const App = function() {
-	return <div>Hi!</div>
+	return <div>Hi!</div>;
 }
